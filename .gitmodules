@@ -1,0 +1,6 @@
+[submodule "src/lib/webserve"]
+	path = src_backend/lib/webserve
+	url = git@github.com:The-city-not-present/webserve.git
+[submodule "src_backend/endpoints/lib/htmltmpl"]
+	path = src_backend/endpoints/lib/htmltmpl
+	url = git@github.com:The-city-not-present/html-template.git
